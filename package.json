@@ -9,6 +9,9 @@
     "start-dev": "node app.js"
   },
   "dependencies": {
+    "express": "^4.16.4",
+    "winston": "^3.2.1",
+    "yup": "^0.26.10",
     "@hapi/joi"	:"^17.1.1",
     "aws-sdk": "^2.1326.0",
     "bcryptjs" : "^2.4.3",
